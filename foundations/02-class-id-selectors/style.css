@@ -1,0 +1,23 @@
+.odd{
+    background-color:rgb(255, 167, 167);
+    font-style:Verdana, "Deja Vu Sans", sans serif;
+}
+
+#two{
+    font-size: 36px;
+    color: blue;
+}
+
+.three-font-size{
+    font-size:24px;
+}
+
+/*.odd{
+    font-size: 24px;
+}*/
+
+#four{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
